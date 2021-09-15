@@ -1,0 +1,7 @@
+{
+  "name": "dynamodb_study",
+  "version": "0.0.0",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "3.30.0"
+  }
+}
